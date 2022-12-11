@@ -44,3 +44,5 @@ def verif_carreaux(y,x,plateau,piece,coordx,coody,joueur):
                 if plateau[u][j] ==
     else :
         return False
+
+    #joep
